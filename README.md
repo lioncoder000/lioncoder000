@@ -2,7 +2,7 @@
 **Automation | AI | Full Stack | Integration**
 
 Poltava, Ukraine | +380 939709958 | lioncoder000@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/kostiantyn-dorohobid-161965350/) | [GitHub](https://github.com/geremylabrador)
+[LinkedIn](https://www.linkedin.com/in/kostiantyn-dorohobid-161965350/) | [GitHub](https://github.com/linecoder000)
 
 ## Summary
 With 7 years of experience in Frontend and Backend across Healthcare, Fintech, and Media sectors, I specialize in developing mobile/web applications tailored to diverse client needs. Equipped with strong communication and analytical skills, I excel in translating business requirements into effective software solutions. Committed to project timeliness and collaboration, I thrive as a team player. Proficient in code review and optimization, I focus on enhancing software quality to ensure seamless functionality. My Bachelor's degree in Computer Science underpins my expertise in crafting sophisticated mobility applications for Android, iOS, and web platforms, enabling me to deliver scalable and efficient solutions that drive user engagement.
