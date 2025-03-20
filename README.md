@@ -1,5 +1,5 @@
 # Kostiantyn Dorohobid
-**Full Stack | Backend | Frontend**
+**Automation | AI | Full Stack | Integration**
 
 Poltava, Ukraine | +380 939709958 | lioncoder000@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/kostiantyn-dorohobid-161965350/) | [GitHub](https://github.com/geremylabrador)
